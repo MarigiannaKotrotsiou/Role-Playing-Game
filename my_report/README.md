@@ -63,11 +63,10 @@
 <img src="spr_kanako_heal_32x64_4-frames.png"><p>
 <img src="spr_death_32x32_9-frames.png"><p>
 <p>Για τον παίχτη χρησιμοποίησα τα αρχικά sprites από το pack που είχα κατεβάσει. Έφτιαξα animation για idle mode, walk left/ right, take damage, heal και death. Το αρχικό pack δεν είχε sprite για το take damage οπότε συνδύασα frames από το death και το walk.<p>
-<img src="spr_kanako_walk_32x64_4-frames.png"><p>
-<img src="spr_kanako_walkup_32x64.png"><p>
  
 <p>Επειδή δεν είχα ούτε sprites για walk up/down, αρχικά απλά είχα βάλει να παίζει το animation του walk left/right όταν πήγαινε πάνω/ κάτω, αλλά μετά αποφάσισα να φτιάξω δικά μου sprites με το site που βρίσκεται παρακάτω, καθώς και χρησιμοποίησα ένα online version του photoshop, επειδή το εργαστήριο της σχολής δεν το έχει:).<p>
-
+<img src="spr_kanako_walkup_32x64.png"><p>
+<img src="spr_kanako_walkdown_32x64_.png"><p>
   
 <p>Με το ίδιο site έφτιαξα και το sprite της κίνησης που θα κάνει ο χαρακτήρας όταν ρίχνει το projectile.<p>
 <p><img src="spr_kanako_throw_32x64_4-frames.png"><p>
