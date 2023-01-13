@@ -116,7 +116,12 @@
 <p>Έκανα τα κουμπιά να έχουν διαφορετικά χρώματα όταν είναι highlighted και selected, και γενικά έπεξα αρκετή ώρα με την τοποθεσία, το μέγεθος κτλ. Για άλλη μια φορά, ξεκάθαρα από τύχη, τα έκανα να λειτουργούν και να πηγαίνουν στις σελίδες που πρέπει.<p>
 <p>Σε ένα νέο scene έφτιαξα και το Level 2 και καλά για να υπάρχει και να φαίνεται.<p>
 <p>Το Background του μενού.<p>
-<p><img src="background.png"height="300" width="400"><p>
+<p><img src="menu (1).png"><p>
+<p><img src="menu (2).png"><p>
+<p><img src="menu (3).png"><p>
+<p><img src="menu (4).png"><p>
+<p><img src="menu (5).png"><p>
+<p><img src="background.png"><p>
 
 ## <p>Audio<p>
 <p>Βρήκα κάποια free packs με sound effects και αρχικά πρόσθεσα background audio στο main scene και στο menu scene. Ένιωσα καλά για τον εαυτό μου για ένα δευτερόλεπτο και είπα να βάλω sound effects σε ότι μπορούσα. Εν τέλη, κατάφερα να βάλω μόνο στα health collectibles και στα projectiles αλλά προσωπικά μου αρκεί.<p>
