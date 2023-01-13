@@ -127,8 +127,20 @@
 ## <p>Build, Run and Distribute<p>   
 <p>Για τρίτη και τελευταία φορά, είχα θέμα με το ανέβασμα. Το build and run, έγινε ωραία και καλά, αλλά το ΜΑΛΛΟΝ μου λείπουν κάποια αρχεία του build οπότε δεν μπορώ να το ανεβάσω στο github. Πραγματικά δεν ξέρω τι να κάνω πλέον.<p>
 
-# Conclusions
 
+<p>Video evidence ότι το παιχίδι μου actually υπάρχει<p>
+
+https://user-images.githubusercontent.com/101730581/212234608-3a66e5a8-6e2c-4b62-a243-c4fddd349621.mp4
+
+https://user-images.githubusercontent.com/101730581/212234659-9416e4e1-e50f-4435-9c77-8ecd3d4afe2c.mp4
+
+
+# Conclusions
+<p>Δεν πέρασα καλά κατά τη διάρκεια αυτής της εργασίας.<p>
+<p><img src="cat1.png"height="300" width="400"><p>
+<p><img src="cat2.jpg"height="300" width="400"><p>
+<p><img src="meme.jpg"height="300" width="400"><p>
+<p><img src="meme1.jfif"height="300" width="400"><p>
 
 # Sources
 
