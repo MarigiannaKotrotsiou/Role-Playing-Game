@@ -138,8 +138,8 @@
 <p><img src="Sign.png"><p>
 <p><img src="npc.png"><p>
 
-<p>Για το teleport σε άλλο σημείο της πίστας, ακολούθησα ένα tutorial βρήκα. Τα sprite που τα έστειλε η [Φαίδρα Δαμιανού](https://github.com/FaidraDamianou)<p>
-<p><img src="map 1.png"><p>
+<p>Για το teleport σε άλλο σημείο της πίστας, ακολούθησα ένα tutorial βρήκα. Τα sprite που τα έστειλε η Φαίδρα Δαμιανού.<p>
+<p><img src="map1.png"><p>
 
 ## <p>Finalizing the game<p>
 <p>Για να τελειωποιήσω το παιχνίδι έπρεπε να κάνω δύο τρία πραγματάκια ακόμα. Έβαλα συνολικά 10 ηλιοτρόπια για το score, πρόσθεσα κιάλλα collectibles και εχθρούς.<p>
@@ -174,11 +174,13 @@
 <p><a href="https://www.youtube.com/watch?v=8TqY6p-PRcs"> Projectile Tutorial 1</a> / <a href="https://www.youtube.com/watch?v=Z92NAnUC2CU&list=PLBRviKraPCowhZbUfOT-XGuqktJUVybzC&index=5"> Projectile Tutorial 2</a><p>
 
  ## <p>Sources for the 3rd Deliverable<p> 
+ <a href="https://github.com/FaidraDamianou"> Faidra's Profile</a><p>
+ <p><a href="https://ranjansikand.itch.io/pixel-health"> Healthbar Sprites</a> / <a href="https://ranjansikand.itch.io/pixel-health](https://legnops.itch.io/red-hood-character"> NPC Sprites</a> / <a href="https://brullov.itch.io/fire-animation"> Fire Sprites</a><p>
 <p><a href="https://www.youtube.com/watch?v=pf8jKN2Y1BM&list=PLBRviKraPCowhZbUfOT-XGuqktJUVybzC&index=7"> Particles Tutorial</a><p>
 <p><a href="https://www.freepik.com/premium-vector/pixel-art-landscape-pine-forest-mountains-with-lake-clouds-8-bit-game-background_27462193.htm?fbclid=IwAR2SuIydqaFda_FSNjdh89BGBYnVOiJtY5JGySUaX41eRsrz9XmK_2d4Q2Q#query=pixel%20art%20forest&position=33&from_view=keyword"> Background Picture</a><p>
 <p><a href="https://www.youtube.com/watch?v=cOW_T3i4_kk&t=316s&fbclid=IwAR2yUgUarR2LIccTPmtHTPM6LA754AaIsZnXLMpXp1NXlueroOtmOo2L1aE"> Score Tutorial</a><p>
 <p><a href="https://www.youtube.com/watch?v=8F0Egqqenvw&list=PLBRviKraPCowhZbUfOT-XGuqktJUVybzC&index=8"> Head-Up Tutorial</a><p>
 <p><a href="https://www.youtube.com/watch?v=-GWjA6dixV4&fbclid=IwAR3fezYlIkhzUq2s7APfXnLbAK4tCxA4yoVytQ4IINoe5M2adnVRek-otXc"> Menu Tutorial</a><p>
-<p><a href="https://www.youtube.com/watch?v=9JvZwMmEydQ&t=95s&fbclid=IwAR2Pfu9sz76H-pw3PPKf4SuLAf4MAHYWGcSX2Ea0K3juT85WFCDwh4gnjr8"> Score Tutorial</a><p>
+<p><a href="https://www.youtube.com/watch?v=9JvZwMmEydQ&t=95s&fbclid=IwAR2Pfu9sz76H-pw3PPKf4SuLAf4MAHYWGcSX2Ea0K3juT85WFCDwh4gnjr8"> Teleport Tutorial 1</a> / <a href="https://www.youtube.com/watch?v=evDKHClDxU8"> Teleport Tutorial 2</a>
 <p><a href="VymAi1JYI3yrlaEkU1DDOk7k36PMOHjV55T68jVA5A"> Background Music Site</a> / <a href="https://kronbits.itch.io/freesfx?fbclid=IwAR1X66xCFX7qD0ob_oa5qNVoP8X5cVWkRWJqgY2lieCEcYRjOowZiA0GLAw"> Sound Effects Site</a><p>
 <p><a href="https://www.youtube.com/watch?v=HVkuRbE0Zck&list=PLBRviKraPCowhZbUfOT-XGuqktJUVybzC&index=9"> Audio Tutorial</a><p>
