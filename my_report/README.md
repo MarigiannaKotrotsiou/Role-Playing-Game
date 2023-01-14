@@ -116,22 +116,6 @@
 <p><img src="healthbar3.png"><p>
 <p><img src="headup.png""><p>
 
-
-## <p>Menu<p>
-<p>Για το μενού, έκανα νέο scene και ξεκίνησα να φτιάχνω το UI. Βάσει ενώς tutorial, έμαθα να φτιάχνω τα κουμπιά και το text. Έκανα κουμπί για Play, Introduction, Levels, The Story και Quit.<p>
-<p>Έκανα τα κουμπιά να έχουν διαφορετικά χρώματα όταν είναι highlighted και selected, και γενικά έπεξα αρκετή ώρα με την τοποθεσία, το μέγεθος κτλ. Για άλλη μια φορά, ξεκάθαρα από τύχη, τα έκανα να λειτουργούν και να πηγαίνουν στις σελίδες που πρέπει.<p>
-<p>Σε ένα νέο scene έφτιαξα και το Level 2 και καλά για να υπάρχει και να φαίνεται. Το μόνο screenshot που ξέχασα να βγάλω είναι αυτό από το δεύτερο level.<p>
-<p>Το Background του μενού.<p>
-<p><img src="menu1.png"><p>
-<p><img src="menu2.png"><p>
-<p><img src="menu3.png"><p>
-<p><img src="menu4.png"><p>
-<p><img src="menu5.png"><p>
-<p><img src="background.png"><p>
-
-## <p>Audio<p>
-<p>Βρήκα κάποια free packs με sound effects και αρχικά πρόσθεσα background audio στο main scene και στο menu scene. Ένιωσα καλά για τον εαυτό μου για ένα δευτερόλεπτο και είπα να βάλω sound effects σε ότι μπορούσα. Εν τέλη, κατάφερα να βάλω μόνο στα health collectibles και στα projectiles αλλά προσωπικά μου αρκεί.<p>
-
 ## <p>Dialog Raycast / Teleport<p>
 <p>Για άλλη μία φορά, δεν ήξερα άμα έπρεπε να κάνω αλληλεπίδραση με npc και να πετάγεται κάποιο text ή να κάνει teleport σε κάποιο άλλο σημείο της πίστας.<p>
 <p>Έκανα πρώτα τον npc. Βρήκα τα sprites online, και γρήγορα έκανα ένα idle animation. Ακολουθώντας τα βήματα του tutorial έκανα τους χαρακτήρες να αλληλεπιδράνε. Το background από το παράθυρο που εμφανίζεται όταν μιλάνε οι χαρακτήρες το έφτιαξα εγώ.<p>
@@ -140,6 +124,20 @@
 
 <p>Για το teleport σε άλλο σημείο της πίστας, ακολούθησα ένα tutorial βρήκα. Τα sprite που τα έστειλε η Φαίδρα Δαμιανού.<p>
 <p><img src="map1.png"><p>
+  
+## <p>Audio<p>
+<p>Βρήκα κάποια free packs με sound effects και αρχικά πρόσθεσα background audio στο main scene και στο menu scene. Ένιωσα καλά για τον εαυτό μου για ένα δευτερόλεπτο και είπα να βάλω sound effects σε ότι μπορούσα. Εν τέλη, κατάφερα να βάλω μόνο στα health collectibles και στα projectiles αλλά προσωπικά μου αρκεί.<p>
+  
+## <p>Menu<p>
+<p>Για το μενού, έκανα νέο scene και ξεκίνησα να φτιάχνω το UI. Βάσει ενώς tutorial, έμαθα να φτιάχνω τα κουμπιά και το text. Έκανα κουμπί για Play, Introduction, Levels, The Story και Quit.<p>
+<p>Έκανα τα κουμπιά να έχουν διαφορετικά χρώματα όταν είναι highlighted και selected, και γενικά έπεξα αρκετή ώρα με την τοποθεσία, το μέγεθος κτλ. Για άλλη μια φορά, ξεκάθαρα από τύχη, τα έκανα να λειτουργούν και να πηγαίνουν στις σελίδες που πρέπει.<p>
+<p>Σε ένα νέο scene έφτιαξα και το Level 2 και καλά για να υπάρχει και να φαίνεται. Το μόνο screenshot που ξέχασα να βγάλω είναι αυτό από το δεύτερο level.<p>
+<p><img src="menu1.png"><p>
+<p><img src="menu2.png"><p>
+<p><img src="menu3.png"><p>
+<p><img src="menu4.png"><p>
+<p><img src="menu5.png"><p>
+<p><img src="background.png"><p>
 
 ## <p>Finalizing the game<p>
 <p>Για να τελειωποιήσω το παιχνίδι έπρεπε να κάνω δύο τρία πραγματάκια ακόμα. Έβαλα συνολικά 10 ηλιοτρόπια για το score, πρόσθεσα κιάλλα collectibles και εχθρούς.<p>
